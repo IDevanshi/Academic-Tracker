@@ -1,6 +1,4 @@
 ## Authors
-
-Names: 
 1) Amy Wiebe 
 2) Cassandra Rodberg 
 3) Devanshi Iragavarapu
