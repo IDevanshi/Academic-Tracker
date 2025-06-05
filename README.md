@@ -1,16 +1,9 @@
-# CPSC 233 Group Project 
-
 ## Authors
 
 Names: 
 1) Amy Wiebe 
 2) Cassandra Rodberg 
 3) Devanshi Iragavarapu
-
-Email IDs: 
-1) amy.wiebe1@ucalgary.ca
-2) cassandra.rodberg@ucalgary.ca
-3) devanshi.iragavar1@ucalgary.ca
 
 ## About the Academic Tracker
 This is a tool used to navigate through user's courses, and their respective assignments and tests. It allows user
