@@ -24,6 +24,8 @@ to add/edit/delete courses and tasks, and contains special output options as lis
 2) You can also run the program using the jar file
    groupprojectgui % java --module-path "C:\Program Files\Java\javafx-sdk-22\lib" --add-modules javafx.controls,javafx.fxml -jar groupprojectgui.jar
 
+3) You can also just run the Main class in src\main\java\ca\ucalgary\groupprojectgui\Main.java. 
+
 
 ### Running the application (functionality aspect):
 1) To load/save/delete information from/to a file, there exists a menu bar item called "File" which contains sub-items that allow
